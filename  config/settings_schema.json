@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Colores",
+      "settings": [
+        {
+          "type": "color",
+          "id": "color_fondo",
+          "label": "Color de fondo"
+        }
+      ]
+    }
+  ]

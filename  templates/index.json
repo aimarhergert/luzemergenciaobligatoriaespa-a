@@ -1,0 +1,8 @@
+{
+    "sections": {
+      "v0-hero-section": {
+        "type": "v0-hero-section"
+      }
+    },
+    "order": ["v0-hero-section"]
+  }
